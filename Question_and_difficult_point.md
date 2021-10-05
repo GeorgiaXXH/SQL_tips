@@ -8,4 +8,4 @@
 ### 3) calculate the column summation within each row: need to use column A + column B + column C instead of sum(A+B+C)
 ## 601. https://leetcode.com/problems/human-traffic-of-stadium/
 ### 1) consecutive days with people more than 99
-### hint: row_number in general - row_number under special case
+#### hint: row_number in general - row_number under special case
