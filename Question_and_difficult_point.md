@@ -9,7 +9,7 @@
 ## 601. https://leetcode.com/problems/human-traffic-of-stadium/
 ### 1) consecutive days with people more than 99
 #### hint: row_number in general - row_number under special case
-## 615. https://leetcode.com/problems/average-salary-departments-vs-company/
+## [2]615. https://leetcode.com/problems/average-salary-departments-vs-company/
 ### 1) when using window function instead of group by, you should use distinct to manually filter unique row records.
 ## 618. https://leetcode.com/problems/students-report-by-geography/
 ### 1) pivot the table only needs to use the row_number as clue to show all the first value in first row and etc
